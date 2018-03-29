@@ -88,3 +88,16 @@ D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Set (30
 D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Set (30_3_18)\ProductDetails\ProductDetails\obj\Debug\ProductDetails.ProductDetails.resources
 D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Set (30_3_18)\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Properties.Resources.resources
 D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Set (30_3_18)\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.GenerateResource.Cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe.config
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\bin\Debug\ProductDetails.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csprojResolveAssemblyReference.cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Confirmation.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.DatabaseInfo.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Login.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Main.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.ProductDetails.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Properties.Resources.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 3 - Uploaded\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.GenerateResource.Cache

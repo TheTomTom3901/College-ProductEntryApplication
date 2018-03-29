@@ -33,9 +33,9 @@ namespace ProductDetails
 
         private void ExitButton_Click(object sender, EventArgs e)
         {
-            Confirmation.lastopen = this;
-            this.Hide();
             Confirmation confirm = new Confirmation();
+            confirm.lastopen = this;
+            this.Hide();
             confirm.Show();
         }
 

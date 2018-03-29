@@ -17,7 +17,7 @@ namespace ProductDetails
             InitializeComponent();
         }
 
-        public static Form lastopen;
+        public Form lastopen;
 
         private void YesBtn_Click(object sender, EventArgs e)
         {
